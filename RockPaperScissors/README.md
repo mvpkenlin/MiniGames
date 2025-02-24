@@ -15,7 +15,7 @@ This is a mini game created while learning the second week of the GitHub Copilot
 
 <p>
 
-## GameIntroduction
+## Introduction
 
 Rock Paper Scissors is a guessing game. You and the computer will choose "Rock", "paper", or "scissors". Rock beats scissors. Paper beats rock. Scissors beats paper.
 
