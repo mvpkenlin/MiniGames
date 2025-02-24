@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/mvpkenlin/MiniGame01"><img src="/images/github-repo-black.svg" alt="GitHub repo"></a>
+	<a href="https://github.com/mvpkenlin/MiniGames"><img src="/images/github-repo-black.svg" alt="GitHub repo"></a>
 	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="/images/language-csharp.svg" alt="Language C#"></a>
 	<a href="https://dotnet.microsoft.com/download"><img src="/images/dotnet-badge.svg" title="Target Framework" alt="Target Framework"></a>
 	<a href="/LICENSE"><img src="/images/license-MIT-green.svg" alt="License"></a>
